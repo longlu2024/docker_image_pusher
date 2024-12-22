@@ -8,4 +8,4 @@
 #docker.io/flannel/flannel-cni-plugin:v1.6.0-flannel1
 # docker.io-calico-kube-controllers:v3.25.2
 #docker.io/flannel/flannel-cni-plugin:v1.2.0
-elasticsearch-8.12.2-amd64：8.12.2
+elasticsearch-8.13.4-amd64：8.13.4
