@@ -7,4 +7,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #docker.io/flannel/flannel-cni-plugin:v1.6.0-flannel1
 # docker.io-calico-kube-controllers:v3.25.2
-docker.io/flannel/flannel-cni-plugin:v1.2.0
+#docker.io/flannel/flannel-cni-plugin:v1.2.0
+elasticsearch-8.12.2-amd64：8.12.2
